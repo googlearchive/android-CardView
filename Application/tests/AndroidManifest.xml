@@ -34,7 +34,6 @@
     -->
     <instrumentation
         android:name="android.test.InstrumentationTestRunner"
-        android:label="Tests for CardView sample"
         android:targetPackage="com.example.android.cardview"/>
 
 </manifest>
