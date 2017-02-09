@@ -2,8 +2,8 @@
 Android CardView Sample Sample
 ===================================
 
-This sample demonstrates how to use CardView introduced in the support library for the
-Android L preview.
+This sample demonstrates how to use CardView introduced in the support library in
+Android 5.0.
 
 Pre-requisites
 --------------
