@@ -103,7 +103,7 @@ public class CardViewFragment extends Fragment {
             @Override
             public void onProgressChanged(SeekBar seekBar, int progress, boolean fromUser) {
                 Log.d(TAG, String.format("SeekBar Elevation progress : %d", progress));
-                mCardView.setElevation(progress);
+                mCardView.setCardElevation(progress);
             }
             @Override
             public void onStartTrackingTouch(SeekBar seekBar) {
