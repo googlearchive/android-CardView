@@ -63,7 +63,7 @@ public class SampleTests extends ActivityInstrumentationTestCase2<CardViewActivi
             public void run() {
                 float elevation = 40.0f;
                 mFragment.mElevationSeekBar.setProgress((int) elevation);
-                assertEquals(elevation, mFragment.mCardView.getElevation());
+                assertEquals(elevation, mFragment.mCardView.getCardElevation());
             }
         });
     }
