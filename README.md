@@ -1,5 +1,5 @@
 
-Android CardView Sample Sample
+Android CardView Sample
 ===================================
 
 This sample demonstrates how to use CardView introduced in the support library in
