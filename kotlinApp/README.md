@@ -1,6 +1,6 @@
 
-Android CardView Sample Sample
-===================================
+Android CardView Sample Sample (Kotlin)
+=======================================
 
 This sample demonstrates how to use CardView introduced in the support library in
 Android 5.0.
@@ -9,7 +9,6 @@ Pre-requisites
 --------------
 
 - Android SDK 27
-- Android Build Tools v27.0.2
 - Android Support Repository
 
 Getting Started
