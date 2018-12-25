@@ -33,5 +33,6 @@ public class CardViewActivity extends Activity {
                     .add(R.id.container, CardViewFragment.newInstance())
                     .commit();
         }
+        // this is a comment
     }
 }
